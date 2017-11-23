@@ -1,0 +1,6208 @@
+fileFormatVersion: 2
+guid: 2ab8673c737b22547b318ccc46c415a3
+timeCreated: 1511283309
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goblin_spearman_0
+    21300002: goblin_spearman_1
+    21300004: goblin_spearman_2
+    21300006: goblin_spearman_3
+    21300008: goblin_spearman_4
+    21300010: goblin_spearman_5
+    21300012: goblin_spearman_6
+    21300014: goblin_spearman_7
+    21300016: goblin_spearman_8
+    21300018: goblin_spearman_9
+    21300020: goblin_spearman_10
+    21300022: goblin_spearman_11
+    21300024: goblin_spearman_12
+    21300026: goblin_spearman_13
+    21300028: goblin_spearman_14
+    21300030: goblin_spearman_15
+    21300032: goblin_spearman_16
+    21300034: goblin_spearman_17
+    21300036: goblin_spearman_18
+    21300038: goblin_spearman_19
+    21300040: goblin_spearman_20
+    21300042: goblin_spearman_21
+    21300044: goblin_spearman_22
+    21300046: goblin_spearman_23
+    21300048: goblin_spearman_24
+    21300050: goblin_spearman_25
+    21300052: goblin_spearman_26
+    21300054: goblin_spearman_27
+    21300056: goblin_spearman_28
+    21300058: goblin_spearman_29
+    21300060: goblin_spearman_30
+    21300062: goblin_spearman_31
+    21300064: goblin_spearman_32
+    21300066: goblin_spearman_33
+    21300068: goblin_spearman_34
+    21300070: goblin_spearman_35
+    21300072: goblin_spearman_36
+    21300074: goblin_spearman_37
+    21300076: goblin_spearman_38
+    21300078: goblin_spearman_39
+    21300080: goblin_spearman_40
+    21300082: goblin_spearman_41
+    21300084: goblin_spearman_42
+    21300086: goblin_spearman_43
+    21300088: goblin_spearman_44
+    21300090: goblin_spearman_45
+    21300092: goblin_spearman_46
+    21300094: goblin_spearman_47
+    21300096: goblin_spearman_48
+    21300098: goblin_spearman_49
+    21300100: goblin_spearman_50
+    21300102: goblin_spearman_51
+    21300104: goblin_spearman_52
+    21300106: goblin_spearman_53
+    21300108: goblin_spearman_54
+    21300110: goblin_spearman_55
+    21300112: goblin_spearman_56
+    21300114: goblin_spearman_57
+    21300116: goblin_spearman_58
+    21300118: goblin_spearman_59
+    21300120: goblin_spearman_60
+    21300122: goblin_spearman_61
+    21300124: goblin_spearman_62
+    21300126: goblin_spearman_63
+    21300128: goblin_spearman_64
+    21300130: goblin_spearman_65
+    21300132: goblin_spearman_66
+    21300134: goblin_spearman_67
+    21300136: goblin_spearman_68
+    21300138: goblin_spearman_69
+    21300140: goblin_spearman_70
+    21300142: goblin_spearman_71
+    21300144: goblin_spearman_72
+    21300146: goblin_spearman_73
+    21300148: goblin_spearman_74
+    21300150: goblin_spearman_75
+    21300152: goblin_spearman_76
+    21300154: goblin_spearman_77
+    21300156: goblin_spearman_78
+    21300158: goblin_spearman_79
+    21300160: goblin_spearman_80
+    21300162: goblin_spearman_81
+    21300164: goblin_spearman_82
+    21300166: goblin_spearman_83
+    21300168: goblin_spearman_84
+    21300170: goblin_spearman_85
+    21300172: goblin_spearman_86
+    21300174: goblin_spearman_87
+    21300176: goblin_spearman_88
+    21300178: goblin_spearman_89
+    21300180: goblin_spearman_90
+    21300182: goblin_spearman_91
+    21300184: goblin_spearman_92
+    21300186: goblin_spearman_93
+    21300188: goblin_spearman_94
+    21300190: goblin_spearman_95
+    21300192: goblin_spearman_96
+    21300194: goblin_spearman_97
+    21300196: goblin_spearman_98
+    21300198: goblin_spearman_99
+    21300200: goblin_spearman_100
+    21300202: goblin_spearman_101
+    21300204: goblin_spearman_102
+    21300206: goblin_spearman_103
+    21300208: goblin_spearman_104
+    21300210: goblin_spearman_105
+    21300212: goblin_spearman_106
+    21300214: goblin_spearman_107
+    21300216: goblin_spearman_108
+    21300218: goblin_spearman_109
+    21300220: goblin_spearman_110
+    21300222: goblin_spearman_111
+    21300224: goblin_spearman_112
+    21300226: goblin_spearman_113
+    21300228: goblin_spearman_114
+    21300230: goblin_spearman_115
+    21300232: goblin_spearman_116
+    21300234: goblin_spearman_117
+    21300236: goblin_spearman_118
+    21300238: goblin_spearman_119
+    21300240: goblin_spearman_120
+    21300242: goblin_spearman_121
+    21300244: goblin_spearman_122
+    21300246: goblin_spearman_123
+    21300248: goblin_spearman_124
+    21300250: goblin_spearman_125
+    21300252: goblin_spearman_126
+    21300254: goblin_spearman_127
+    21300256: goblin_spearman_128
+    21300258: goblin_spearman_129
+    21300260: goblin_spearman_130
+    21300262: goblin_spearman_131
+    21300264: goblin_spearman_132
+    21300266: goblin_spearman_133
+    21300268: goblin_spearman_134
+    21300270: goblin_spearman_135
+    21300272: goblin_spearman_136
+    21300274: goblin_spearman_137
+    21300276: goblin_spearman_138
+    21300278: goblin_spearman_139
+    21300280: goblin_spearman_140
+    21300282: goblin_spearman_141
+    21300284: goblin_spearman_142
+    21300286: goblin_spearman_143
+    21300288: goblin_spearman_144
+    21300290: goblin_spearman_145
+    21300292: goblin_spearman_146
+    21300294: goblin_spearman_147
+    21300296: goblin_spearman_148
+    21300298: goblin_spearman_149
+    21300300: goblin_spearman_150
+    21300302: goblin_spearman_151
+    21300304: goblin_spearman_152
+    21300306: goblin_spearman_153
+    21300308: goblin_spearman_154
+    21300310: goblin_spearman_155
+    21300312: goblin_spearman_156
+    21300314: goblin_spearman_157
+    21300316: goblin_spearman_158
+    21300318: goblin_spearman_159
+    21300320: goblin_spearman_160
+    21300322: goblin_spearman_161
+    21300324: goblin_spearman_162
+    21300326: goblin_spearman_163
+    21300328: goblin_spearman_164
+    21300330: goblin_spearman_165
+    21300332: goblin_spearman_166
+    21300334: goblin_spearman_167
+    21300336: goblin_spearman_168
+    21300338: goblin_spearman_169
+    21300340: goblin_spearman_170
+    21300342: goblin_spearman_171
+    21300344: goblin_spearman_172
+    21300346: goblin_spearman_173
+    21300348: goblin_spearman_174
+    21300350: goblin_spearman_175
+    21300352: goblin_spearman_176
+    21300354: goblin_spearman_177
+    21300356: goblin_spearman_178
+    21300358: goblin_spearman_179
+    21300360: goblin_spearman_180
+    21300362: goblin_spearman_181
+    21300364: goblin_spearman_182
+    21300366: goblin_spearman_183
+    21300368: goblin_spearman_184
+    21300370: goblin_spearman_185
+    21300372: goblin_spearman_186
+    21300374: goblin_spearman_187
+    21300376: goblin_spearman_188
+    21300378: goblin_spearman_189
+    21300380: goblin_spearman_190
+    21300382: goblin_spearman_191
+    21300384: goblin_spearman_192
+    21300386: goblin_spearman_193
+    21300388: goblin_spearman_194
+    21300390: goblin_spearman_195
+    21300392: goblin_spearman_196
+    21300394: goblin_spearman_197
+    21300396: goblin_spearman_198
+    21300398: goblin_spearman_199
+    21300400: goblin_spearman_200
+    21300402: goblin_spearman_201
+    21300404: goblin_spearman_202
+    21300406: goblin_spearman_203
+    21300408: goblin_spearman_204
+    21300410: goblin_spearman_205
+    21300412: goblin_spearman_206
+    21300414: goblin_spearman_207
+    21300416: goblin_spearman_208
+    21300418: goblin_spearman_209
+    21300420: goblin_spearman_210
+    21300422: goblin_spearman_211
+    21300424: goblin_spearman_212
+    21300426: goblin_spearman_213
+    21300428: goblin_spearman_214
+    21300430: goblin_spearman_215
+    21300432: goblin_spearman_216
+    21300434: goblin_spearman_217
+    21300436: goblin_spearman_218
+    21300438: goblin_spearman_219
+    21300440: goblin_spearman_220
+    21300442: goblin_spearman_221
+    21300444: goblin_spearman_222
+    21300446: goblin_spearman_223
+    21300448: goblin_spearman_224
+    21300450: goblin_spearman_225
+    21300452: goblin_spearman_226
+    21300454: goblin_spearman_227
+    21300456: goblin_spearman_228
+    21300458: goblin_spearman_229
+    21300460: goblin_spearman_230
+    21300462: goblin_spearman_231
+    21300464: goblin_spearman_232
+    21300466: goblin_spearman_233
+    21300468: goblin_spearman_234
+    21300470: goblin_spearman_235
+    21300472: goblin_spearman_236
+    21300474: goblin_spearman_237
+    21300476: goblin_spearman_238
+    21300478: goblin_spearman_239
+    21300480: goblin_spearman_240
+    21300482: goblin_spearman_241
+    21300484: goblin_spearman_242
+    21300486: goblin_spearman_243
+    21300488: goblin_spearman_244
+    21300490: goblin_spearman_245
+    21300492: goblin_spearman_246
+    21300494: goblin_spearman_247
+    21300496: goblin_spearman_248
+    21300498: goblin_spearman_249
+    21300500: goblin_spearman_250
+    21300502: goblin_spearman_251
+    21300504: goblin_spearman_252
+    21300506: goblin_spearman_253
+    21300508: goblin_spearman_254
+    21300510: goblin_spearman_255
+    21300512: goblin_spearman_256
+    21300514: goblin_spearman_257
+    21300516: goblin_spearman_258
+    21300518: goblin_spearman_259
+    21300520: goblin_spearman_260
+    21300522: goblin_spearman_261
+    21300524: goblin_spearman_262
+    21300526: goblin_spearman_263
+    21300528: goblin_spearman_264
+    21300530: goblin_spearman_265
+    21300532: goblin_spearman_266
+    21300534: goblin_spearman_267
+    21300536: goblin_spearman_268
+    21300538: goblin_spearman_269
+    21300540: goblin_spearman_270
+    21300542: goblin_spearman_271
+    21300544: goblin_spearman_272
+    21300546: goblin_spearman_273
+    21300548: goblin_spearman_274
+    21300550: goblin_spearman_275
+    21300552: goblin_spearman_276
+    21300554: goblin_spearman_277
+    21300556: goblin_spearman_278
+    21300558: goblin_spearman_279
+    21300560: goblin_spearman_280
+    21300562: goblin_spearman_281
+    21300564: goblin_spearman_282
+    21300566: goblin_spearman_283
+    21300568: goblin_spearman_284
+    21300570: goblin_spearman_285
+    21300572: goblin_spearman_286
+    21300574: goblin_spearman_287
+    21300576: goblin_spearman_288
+    21300578: goblin_spearman_289
+    21300580: goblin_spearman_290
+    21300582: goblin_spearman_291
+    21300584: goblin_spearman_292
+    21300586: goblin_spearman_293
+    21300588: goblin_spearman_294
+    21300590: goblin_spearman_295
+    21300592: goblin_spearman_296
+    21300594: goblin_spearman_297
+    21300596: goblin_spearman_298
+    21300598: goblin_spearman_299
+    21300600: goblin_spearman_300
+    21300602: goblin_spearman_301
+    21300604: goblin_spearman_302
+    21300606: goblin_spearman_303
+    21300608: goblin_spearman_304
+    21300610: goblin_spearman_305
+    21300612: goblin_spearman_306
+    21300614: goblin_spearman_307
+    21300616: goblin_spearman_308
+    21300618: goblin_spearman_309
+    21300620: goblin_spearman_310
+    21300622: goblin_spearman_311
+    21300624: goblin_spearman_312
+    21300626: goblin_spearman_313
+    21300628: goblin_spearman_314
+    21300630: goblin_spearman_315
+    21300632: goblin_spearman_316
+    21300634: goblin_spearman_317
+    21300636: goblin_spearman_318
+    21300638: goblin_spearman_319
+    21300640: goblin_spearman_320
+    21300642: goblin_spearman_321
+    21300644: goblin_spearman_322
+    21300646: goblin_spearman_323
+    21300648: goblin_spearman_324
+    21300650: goblin_spearman_325
+    21300652: goblin_spearman_326
+    21300654: goblin_spearman_327
+    21300656: goblin_spearman_328
+    21300658: goblin_spearman_329
+    21300660: goblin_spearman_330
+    21300662: goblin_spearman_331
+    21300664: goblin_spearman_332
+    21300666: goblin_spearman_333
+    21300668: goblin_spearman_334
+    21300670: goblin_spearman_335
+    21300672: goblin_spearman_336
+    21300674: goblin_spearman_337
+    21300676: goblin_spearman_338
+    21300678: goblin_spearman_339
+    21300680: goblin_spearman_340
+    21300682: goblin_spearman_341
+    21300684: goblin_spearman_342
+    21300686: goblin_spearman_343
+    21300688: goblin_spearman_344
+    21300690: goblin_spearman_345
+    21300692: goblin_spearman_346
+    21300694: goblin_spearman_347
+    21300696: goblin_spearman_348
+    21300698: goblin_spearman_349
+    21300700: goblin_spearman_350
+    21300702: goblin_spearman_351
+    21300704: goblin_spearman_352
+    21300706: goblin_spearman_353
+    21300708: goblin_spearman_354
+    21300710: goblin_spearman_355
+    21300712: goblin_spearman_356
+    21300714: goblin_spearman_357
+    21300716: goblin_spearman_358
+    21300718: goblin_spearman_359
+    21300720: goblin_spearman_360
+    21300722: goblin_spearman_361
+    21300724: goblin_spearman_362
+    21300726: goblin_spearman_363
+    21300728: goblin_spearman_364
+    21300730: goblin_spearman_365
+    21300732: goblin_spearman_366
+    21300734: goblin_spearman_367
+    21300736: goblin_spearman_368
+    21300738: goblin_spearman_369
+    21300740: goblin_spearman_370
+    21300742: goblin_spearman_371
+    21300744: goblin_spearman_372
+    21300746: goblin_spearman_373
+    21300748: goblin_spearman_374
+    21300750: goblin_spearman_375
+    21300752: goblin_spearman_376
+    21300754: goblin_spearman_377
+    21300756: goblin_spearman_378
+    21300758: goblin_spearman_379
+    21300760: goblin_spearman_380
+    21300762: goblin_spearman_381
+    21300764: goblin_spearman_382
+    21300766: goblin_spearman_383
+    21300768: goblin_spearman_384
+    21300770: goblin_spearman_385
+    21300772: goblin_spearman_386
+    21300774: goblin_spearman_387
+    21300776: goblin_spearman_388
+    21300778: goblin_spearman_389
+    21300780: goblin_spearman_390
+    21300782: goblin_spearman_391
+    21300784: goblin_spearman_392
+    21300786: goblin_spearman_393
+    21300788: goblin_spearman_394
+    21300790: goblin_spearman_395
+    21300792: goblin_spearman_396
+    21300794: goblin_spearman_397
+    21300796: goblin_spearman_398
+    21300798: goblin_spearman_399
+    21300800: goblin_spearman_400
+    21300802: goblin_spearman_401
+    21300804: goblin_spearman_402
+    21300806: goblin_spearman_403
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_spearman_0
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 926
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_1
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 926
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 926
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 926
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 925
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_5
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 924
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_6
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 924
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_7
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 926
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_8
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 924
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_9
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 924
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_10
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 924
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_11
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 923
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_12
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 924
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_13
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 923
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_14
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 954
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_15
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 961
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_16
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 952
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_17
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 947
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_18
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 923
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_19
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 924
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 924
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 924
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 924
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 924
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 924
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 925
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_26
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 923
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_27
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 926
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_28
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 928
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_29
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 928
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_30
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 926
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_31
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 926
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_32
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 926
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_33
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 925
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_34
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 926
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_35
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 926
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_36
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 924
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_37
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 926
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_38
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 924
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_39
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 924
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_40
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 924
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_41
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 925
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_42
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 924
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_43
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 924
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_44
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 924
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_45
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 928
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_46
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 926
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_47
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 922
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_48
+      rect:
+        serializedVersion: 2
+        x: 5426
+        y: 925
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_49
+      rect:
+        serializedVersion: 2
+        x: 5554
+        y: 923
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_50
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 924
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_51
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 925
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_52
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 796
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_53
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 796
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_54
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 797
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_55
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 796
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_56
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 798
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_57
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 798
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_58
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 796
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_59
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 797
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_60
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 800
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_61
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 798
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_62
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 798
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_63
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 798
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_64
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 796
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_65
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 796
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_66
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 796
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_67
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 796
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_68
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 795
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_69
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 796
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_70
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 796
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_71
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 798
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_72
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 796
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_73
+      rect:
+        serializedVersion: 2
+        x: 5175
+        y: 797
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_74
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 796
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_75
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 832
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_76
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 830
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_77
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 795
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_78
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 795
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_79
+      rect:
+        serializedVersion: 2
+        x: 5934
+        y: 793
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 797
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_81
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 797
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 797
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_83
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 797
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_84
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 796
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_85
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 795
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_86
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 797
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_87
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 796
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_88
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 797
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_89
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 797
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_90
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 796
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_91
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 795
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_92
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 795
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_93
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 796
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_94
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 796
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_95
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 800
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_96
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 802
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_97
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 795
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_98
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 794
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_99
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 795
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_100
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 796
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_101
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 792
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_102
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 668
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_103
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 668
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_104
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 672
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_105
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 672
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_106
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 672
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_107
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 668
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_108
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 665
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_109
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 667
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_110
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 669
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_111
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 666
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_112
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 672
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_113
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 672
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_114
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 667
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_115
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 670
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_116
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 668
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_117
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 706
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_118
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 669
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_119
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 668
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_120
+      rect:
+        serializedVersion: 2
+        x: 5815
+        y: 667
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_121
+      rect:
+        serializedVersion: 2
+        x: 5942
+        y: 664
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_122
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 665
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_123
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 665
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_124
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 666
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_125
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 666
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_126
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 668
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_127
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 668
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_128
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 667
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_129
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 669
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_130
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 672
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_131
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 668
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_132
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 667
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_133
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 668
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_134
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 672
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_135
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 669
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_136
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 668
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_137
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 662
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_138
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 668
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_139
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 668
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_140
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 668
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_141
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 670
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_142
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 667
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_143
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 667
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_144
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 668
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_145
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 669
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_146
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 669
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_147
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 667
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_148
+      rect:
+        serializedVersion: 2
+        x: 5044
+        y: 664
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_149
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 669
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_150
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 664
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_151
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 540
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_152
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 538
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_153
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 539
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_154
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 542
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_155
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 542
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_156
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 543
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_157
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 543
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_158
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 538
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_159
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 540
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_160
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 542
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_161
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 542
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_162
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 541
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_163
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 539
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_164
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 541
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_165
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 543
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_166
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 542
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_167
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 536
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_168
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 538
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_169
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 540
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_170
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 540
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_171
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 535
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_172
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 539
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_173
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 543
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_174
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 540
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_175
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 539
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_176
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 539
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_177
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 541
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_178
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 537
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_179
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 540
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_180
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 539
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_181
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 541
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_182
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 539
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_183
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 573
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_184
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 572
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_185
+      rect:
+        serializedVersion: 2
+        x: 5687
+        y: 540
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_186
+      rect:
+        serializedVersion: 2
+        x: 5812
+        y: 539
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_187
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 537
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_188
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 536
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_189
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 536
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_190
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 536
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_191
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 537
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_192
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 540
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_193
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 538
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_194
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 538
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_195
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 539
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_196
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 535
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_197
+      rect:
+        serializedVersion: 2
+        x: 5044
+        y: 532
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_198
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 540
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_199
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 539
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_200
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 537
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_201
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 412
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_202
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 412
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_203
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 408
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_204
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 411
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_205
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 412
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_206
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 412
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_207
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 411
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_208
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 411
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_209
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 412
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_210
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 412
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_211
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 413
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_212
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 414
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_213
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 412
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_214
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 416
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_215
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 416
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_216
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 414
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_217
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 411
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_218
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 413
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_219
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 414
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_220
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 414
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_221
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 413
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_222
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 409
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_223
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 412
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_224
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 407
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_225
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 408
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_226
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 412
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_227
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 411
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_228
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 438
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_229
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 446
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_230
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 436
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_231
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 432
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_232
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 411
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_233
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 411
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_234
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 411
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_235
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 411
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_236
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 413
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_237
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 412
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_238
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 412
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_239
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 412
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_240
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 407
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_241
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 411
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_242
+      rect:
+        serializedVersion: 2
+        x: 4398
+        y: 412
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_243
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 412
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_244
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 412
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_245
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 416
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_246
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 408
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_247
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 407
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_248
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 411
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_249
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 411
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_250
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 412
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_251
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 412
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_252
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 411
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_253
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 284
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_254
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 283
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_255
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 283
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_256
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 283
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_257
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 279
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_258
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 283
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_259
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 286
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_260
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 284
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_261
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 285
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_262
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 284
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_263
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 283
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_264
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 284
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_265
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 279
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_266
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 279
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_267
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 279
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_268
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 279
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_269
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 279
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_270
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 279
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_271
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 279
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_272
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 279
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_273
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 285
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_274
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 284
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_275
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 279
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_276
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 285
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_277
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 286
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_278
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 286
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_279
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 281
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_280
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 280
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_281
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 281
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_282
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 282
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_283
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 284
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_284
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 283
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_285
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 280
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_286
+      rect:
+        serializedVersion: 2
+        x: 4396
+        y: 282
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_287
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 283
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_288
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 283
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_289
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 284
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_290
+      rect:
+        serializedVersion: 2
+        x: 5175
+        y: 285
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_291
+      rect:
+        serializedVersion: 2
+        x: 5303
+        y: 284
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_292
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 286
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_293
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 311
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_294
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 312
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_295
+      rect:
+        serializedVersion: 2
+        x: 5812
+        y: 308
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_296
+      rect:
+        serializedVersion: 2
+        x: 5938
+        y: 282
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_297
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 279
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_298
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 278
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_299
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 282
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_300
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 279
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_301
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 284
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_302
+      rect:
+        serializedVersion: 2
+        x: 5687
+        y: 283
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_303
+      rect:
+        serializedVersion: 2
+        x: 5813
+        y: 283
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_304
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 155
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_305
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 155
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_306
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 155
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_307
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 154
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_308
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 151
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_309
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 154
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_310
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 162
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_311
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 161
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_312
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 160
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_313
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_314
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 156
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_315
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 156
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_316
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 146
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_317
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 146
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_318
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 146
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_319
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 146
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_320
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 146
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_321
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 146
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_322
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 146
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_323
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 146
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_324
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 156
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_325
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_326
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 150
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_327
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 145
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_328
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 157
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_329
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 156
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_330
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 158
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_331
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 148
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_332
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 157
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_333
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 156
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_334
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 155
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_335
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 157
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_336
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 156
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_337
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 157
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_338
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 151
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_339
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 152
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_340
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 152
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_341
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 153
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_342
+      rect:
+        serializedVersion: 2
+        x: 4908
+        y: 151
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_343
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 149
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_344
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 159
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_345
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 159
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_346
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 158
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_347
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 156
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_348
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 156
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_349
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 155
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_350
+      rect:
+        serializedVersion: 2
+        x: 5942
+        y: 152
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_351
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 151
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_352
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_353
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_354
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_355
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 28
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_356
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 28
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_357
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 32
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_358
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 32
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_359
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 33
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_360
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 32
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_361
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 28
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_362
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 27
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_363
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 27
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_364
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 28
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_365
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 28
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_366
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 27
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_367
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 28
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_368
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 28
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_369
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 26
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_370
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 28
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_371
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 28
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_372
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 27
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_373
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 30
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_374
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 30
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_375
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 26
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_376
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 25
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_377
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 26
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_378
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 28
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_379
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 29
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_380
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 28
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_381
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 52
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_382
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 58
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_383
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 59
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_384
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 52
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_385
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 26
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_386
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 25
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_387
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 28
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_388
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 23
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_389
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 23
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_390
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 23
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_391
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 23
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_392
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 23
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_393
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 23
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_394
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 23
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_395
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 23
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_396
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 29
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_397
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 24
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_398
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 25
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_399
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 24
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_400
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 28
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_401
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 29
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_402
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 27
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goblin_spearman_403
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 28
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

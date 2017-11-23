@@ -1,0 +1,15 @@
+Wedge: Hello stranger, name's Wedge. What can I do for ya'?
+Gorion: Can you help me, I seem to be lost. I am looking for a looter, a thief named Biggs.
+Wedge: Ah, yes... You see, that is a friend of mine. Or, that WAS a friend of mine. We used to ride together, back when he was a bit friendlier.
+Wedge: Heh, we were a happy bunch.
+Gorion: Ok, cool. What is his deal now?
+Wedge: Well, that dirty merchant Patches tricked us out of all our loot. Biggs went crazy after that. Said he'd rob everyone 100 miles around.
+Gorion: I see.
+Wedge: Anyway, he needs to be stopped. I will give you this amulet. With it you just have to touch him and he will die.
+Gorion equips the amulet
+Gorion: Oh, OK. I didn't know it was that easy. Thank you, Wedge.
+Wedge: Nevermind, just get it over with.
+
+Wedge: I'm busy. I can't talk to you right now.
+
+Wedge: Leave me be, I am in mourning.

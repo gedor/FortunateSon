@@ -1,0 +1,3988 @@
+fileFormatVersion: 2
+guid: 8ca598f756e38074bbadcb65be7b28d0
+timeCreated: 1510776952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orc_heavy_1_0
+    21300002: orc_heavy_1_1
+    21300004: orc_heavy_1_2
+    21300006: orc_heavy_1_3
+    21300008: orc_heavy_1_4
+    21300010: orc_heavy_1_5
+    21300012: orc_heavy_1_6
+    21300014: orc_heavy_1_7
+    21300016: orc_heavy_1_8
+    21300018: orc_heavy_1_9
+    21300020: orc_heavy_1_10
+    21300022: orc_heavy_1_11
+    21300024: orc_heavy_1_12
+    21300026: orc_heavy_1_13
+    21300028: orc_heavy_1_14
+    21300030: orc_heavy_1_15
+    21300032: orc_heavy_1_16
+    21300034: orc_heavy_1_17
+    21300036: orc_heavy_1_18
+    21300038: orc_heavy_1_19
+    21300040: orc_heavy_1_20
+    21300042: orc_heavy_1_21
+    21300044: orc_heavy_1_22
+    21300046: orc_heavy_1_23
+    21300048: orc_heavy_1_24
+    21300050: orc_heavy_1_25
+    21300052: orc_heavy_1_26
+    21300054: orc_heavy_1_27
+    21300056: orc_heavy_1_28
+    21300058: orc_heavy_1_29
+    21300060: orc_heavy_1_30
+    21300062: orc_heavy_1_31
+    21300064: orc_heavy_1_32
+    21300066: orc_heavy_1_33
+    21300068: orc_heavy_1_34
+    21300070: orc_heavy_1_35
+    21300072: orc_heavy_1_36
+    21300074: orc_heavy_1_37
+    21300076: orc_heavy_1_38
+    21300078: orc_heavy_1_39
+    21300080: orc_heavy_1_40
+    21300082: orc_heavy_1_41
+    21300084: orc_heavy_1_42
+    21300086: orc_heavy_1_43
+    21300088: orc_heavy_1_44
+    21300090: orc_heavy_1_45
+    21300092: orc_heavy_1_46
+    21300094: orc_heavy_1_47
+    21300096: orc_heavy_1_48
+    21300098: orc_heavy_1_49
+    21300100: orc_heavy_1_50
+    21300102: orc_heavy_1_51
+    21300104: orc_heavy_1_52
+    21300106: orc_heavy_1_53
+    21300108: orc_heavy_1_54
+    21300110: orc_heavy_1_55
+    21300112: orc_heavy_1_56
+    21300114: orc_heavy_1_57
+    21300116: orc_heavy_1_58
+    21300118: orc_heavy_1_59
+    21300120: orc_heavy_1_60
+    21300122: orc_heavy_1_61
+    21300124: orc_heavy_1_62
+    21300126: orc_heavy_1_63
+    21300128: orc_heavy_1_64
+    21300130: orc_heavy_1_65
+    21300132: orc_heavy_1_66
+    21300134: orc_heavy_1_67
+    21300136: orc_heavy_1_68
+    21300138: orc_heavy_1_69
+    21300140: orc_heavy_1_70
+    21300142: orc_heavy_1_71
+    21300144: orc_heavy_1_72
+    21300146: orc_heavy_1_73
+    21300148: orc_heavy_1_74
+    21300150: orc_heavy_1_75
+    21300152: orc_heavy_1_76
+    21300154: orc_heavy_1_77
+    21300156: orc_heavy_1_78
+    21300158: orc_heavy_1_79
+    21300160: orc_heavy_1_80
+    21300162: orc_heavy_1_81
+    21300164: orc_heavy_1_82
+    21300166: orc_heavy_1_83
+    21300168: orc_heavy_1_84
+    21300170: orc_heavy_1_85
+    21300172: orc_heavy_1_86
+    21300174: orc_heavy_1_87
+    21300176: orc_heavy_1_88
+    21300178: orc_heavy_1_89
+    21300180: orc_heavy_1_90
+    21300182: orc_heavy_1_91
+    21300184: orc_heavy_1_92
+    21300186: orc_heavy_1_93
+    21300188: orc_heavy_1_94
+    21300190: orc_heavy_1_95
+    21300192: orc_heavy_1_96
+    21300194: orc_heavy_1_97
+    21300196: orc_heavy_1_98
+    21300198: orc_heavy_1_99
+    21300200: orc_heavy_1_100
+    21300202: orc_heavy_1_101
+    21300204: orc_heavy_1_102
+    21300206: orc_heavy_1_103
+    21300208: orc_heavy_1_104
+    21300210: orc_heavy_1_105
+    21300212: orc_heavy_1_106
+    21300214: orc_heavy_1_107
+    21300216: orc_heavy_1_108
+    21300218: orc_heavy_1_109
+    21300220: orc_heavy_1_110
+    21300222: orc_heavy_1_111
+    21300224: orc_heavy_1_112
+    21300226: orc_heavy_1_113
+    21300228: orc_heavy_1_114
+    21300230: orc_heavy_1_115
+    21300232: orc_heavy_1_116
+    21300234: orc_heavy_1_117
+    21300236: orc_heavy_1_118
+    21300238: orc_heavy_1_119
+    21300240: orc_heavy_1_120
+    21300242: orc_heavy_1_121
+    21300244: orc_heavy_1_122
+    21300246: orc_heavy_1_123
+    21300248: orc_heavy_1_124
+    21300250: orc_heavy_1_125
+    21300252: orc_heavy_1_126
+    21300254: orc_heavy_1_127
+    21300256: orc_heavy_1_128
+    21300258: orc_heavy_1_129
+    21300260: orc_heavy_1_130
+    21300262: orc_heavy_1_131
+    21300264: orc_heavy_1_132
+    21300266: orc_heavy_1_133
+    21300268: orc_heavy_1_134
+    21300270: orc_heavy_1_135
+    21300272: orc_heavy_1_136
+    21300274: orc_heavy_1_137
+    21300276: orc_heavy_1_138
+    21300278: orc_heavy_1_139
+    21300280: orc_heavy_1_140
+    21300282: orc_heavy_1_141
+    21300284: orc_heavy_1_142
+    21300286: orc_heavy_1_143
+    21300288: orc_heavy_1_144
+    21300290: orc_heavy_1_145
+    21300292: orc_heavy_1_146
+    21300294: orc_heavy_1_147
+    21300296: orc_heavy_1_148
+    21300298: orc_heavy_1_149
+    21300300: orc_heavy_1_150
+    21300302: orc_heavy_1_151
+    21300304: orc_heavy_1_152
+    21300306: orc_heavy_1_153
+    21300308: orc_heavy_1_154
+    21300310: orc_heavy_1_155
+    21300312: orc_heavy_1_156
+    21300314: orc_heavy_1_157
+    21300316: orc_heavy_1_158
+    21300318: orc_heavy_1_159
+    21300320: orc_heavy_1_160
+    21300322: orc_heavy_1_161
+    21300324: orc_heavy_1_162
+    21300326: orc_heavy_1_163
+    21300328: orc_heavy_1_164
+    21300330: orc_heavy_1_165
+    21300332: orc_heavy_1_166
+    21300334: orc_heavy_1_167
+    21300336: orc_heavy_1_168
+    21300338: orc_heavy_1_169
+    21300340: orc_heavy_1_170
+    21300342: orc_heavy_1_171
+    21300344: orc_heavy_1_172
+    21300346: orc_heavy_1_173
+    21300348: orc_heavy_1_174
+    21300350: orc_heavy_1_175
+    21300352: orc_heavy_1_176
+    21300354: orc_heavy_1_177
+    21300356: orc_heavy_1_178
+    21300358: orc_heavy_1_179
+    21300360: orc_heavy_1_180
+    21300362: orc_heavy_1_181
+    21300364: orc_heavy_1_182
+    21300366: orc_heavy_1_183
+    21300368: orc_heavy_1_184
+    21300370: orc_heavy_1_185
+    21300372: orc_heavy_1_186
+    21300374: orc_heavy_1_187
+    21300376: orc_heavy_1_188
+    21300378: orc_heavy_1_189
+    21300380: orc_heavy_1_190
+    21300382: orc_heavy_1_191
+    21300384: orc_heavy_1_192
+    21300386: orc_heavy_1_193
+    21300388: orc_heavy_1_194
+    21300390: orc_heavy_1_195
+    21300392: orc_heavy_1_196
+    21300394: orc_heavy_1_197
+    21300396: orc_heavy_1_198
+    21300398: orc_heavy_1_199
+    21300400: orc_heavy_1_200
+    21300402: orc_heavy_1_201
+    21300404: orc_heavy_1_202
+    21300406: orc_heavy_1_203
+    21300408: orc_heavy_1_204
+    21300410: orc_heavy_1_205
+    21300412: orc_heavy_1_206
+    21300414: orc_heavy_1_207
+    21300416: orc_heavy_1_208
+    21300418: orc_heavy_1_209
+    21300420: orc_heavy_1_210
+    21300422: orc_heavy_1_211
+    21300424: orc_heavy_1_212
+    21300426: orc_heavy_1_213
+    21300428: orc_heavy_1_214
+    21300430: orc_heavy_1_215
+    21300432: orc_heavy_1_216
+    21300434: orc_heavy_1_217
+    21300436: orc_heavy_1_218
+    21300438: orc_heavy_1_219
+    21300440: orc_heavy_1_220
+    21300442: orc_heavy_1_221
+    21300444: orc_heavy_1_222
+    21300446: orc_heavy_1_223
+    21300448: orc_heavy_1_224
+    21300450: orc_heavy_1_225
+    21300452: orc_heavy_1_226
+    21300454: orc_heavy_1_227
+    21300456: orc_heavy_1_228
+    21300458: orc_heavy_1_229
+    21300460: orc_heavy_1_230
+    21300462: orc_heavy_1_231
+    21300464: orc_heavy_1_232
+    21300466: orc_heavy_1_233
+    21300468: orc_heavy_1_234
+    21300470: orc_heavy_1_235
+    21300472: orc_heavy_1_236
+    21300474: orc_heavy_1_237
+    21300476: orc_heavy_1_238
+    21300478: orc_heavy_1_239
+    21300480: orc_heavy_1_240
+    21300482: orc_heavy_1_241
+    21300484: orc_heavy_1_242
+    21300486: orc_heavy_1_243
+    21300488: orc_heavy_1_244
+    21300490: orc_heavy_1_245
+    21300492: orc_heavy_1_246
+    21300494: orc_heavy_1_247
+    21300496: orc_heavy_1_248
+    21300498: orc_heavy_1_249
+    21300500: orc_heavy_1_250
+    21300502: orc_heavy_1_251
+    21300504: orc_heavy_1_252
+    21300506: orc_heavy_1_253
+    21300508: orc_heavy_1_254
+    21300510: orc_heavy_1_255
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orc_heavy_1_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 919
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 920
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 921
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 921
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 920
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 925
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 927
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 925
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_8
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 927
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_9
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 925
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 923
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 920
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 921
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_13
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 919
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_14
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 920
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_15
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 921
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_16
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 920
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_17
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 919
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_18
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 920
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_19
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 919
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_20
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 923
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_21
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 923
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_22
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 912
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_23
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 912
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_24
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 919
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_25
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 920
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_26
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 921
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_27
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 921
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_28
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 919
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_29
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 919
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_30
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 920
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_31
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 920
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 792
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 792
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 792
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 792
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 791
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_37
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 789
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_38
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 789
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_39
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 791
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_40
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 792
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_41
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 791
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 791
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_43
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 792
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_44
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 793
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_45
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 792
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_46
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 791
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_47
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 792
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_48
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 793
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_49
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 793
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_50
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 793
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_51
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 795
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_52
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 791
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_53
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 789
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_54
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 783
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_55
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 781
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_56
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 795
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_57
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 795
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_58
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 795
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_59
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 795
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_60
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 792
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_61
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 793
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_62
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 792
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_63
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 792
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 661
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 661
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 661
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_67
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 661
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_68
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 663
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_69
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 659
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_70
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 657
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_71
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 661
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_72
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 663
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_73
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 656
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_74
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 656
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_75
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 661
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_76
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 659
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_77
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 656
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_78
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 656
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_79
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 659
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_80
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 661
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_81
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 659
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_82
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 659
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_83
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 659
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_84
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 657
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_85
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 655
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_86
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 653
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_87
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 652
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_88
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 661
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_89
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 661
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_90
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 661
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_91
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 661
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_92
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 661
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_93
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 661
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_94
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 661
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_95
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 661
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 533
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 532
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 531
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 533
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_100
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 536
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_101
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 535
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_102
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 535
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 536
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_104
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 536
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_105
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 533
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_106
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 533
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_107
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 537
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_108
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 531
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_109
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 531
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_110
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 531
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_111
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 531
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_112
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 531
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_113
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 531
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_114
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 531
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_115
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 531
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_116
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 529
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_117
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 529
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_118
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 531
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_119
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 521
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_120
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 533
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_121
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 533
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_122
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 533
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_123
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 533
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_124
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 533
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_125
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 533
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_126
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 533
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_127
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 533
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_128
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 409
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_129
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 408
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_130
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 409
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_131
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 409
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_132
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 415
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_133
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 411
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_134
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 411
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_135
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 408
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_136
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 408
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_137
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 413
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_138
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 415
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_139
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 413
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_140
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 408
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_141
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 409
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_142
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 407
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_143
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 408
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_144
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 409
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_145
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 409
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_146
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 407
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_147
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 405
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_148
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 400
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_149
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 400
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_150
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 405
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_151
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 400
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_152
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 407
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_153
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 407
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_154
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 407
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_155
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 408
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_156
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 409
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_157
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 409
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_158
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 408
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_159
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 409
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_160
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_161
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 281
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_162
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 281
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_163
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 281
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_164
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 287
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_165
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 285
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_166
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 279
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_167
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 280
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_168
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 285
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_169
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 288
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_170
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 281
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_171
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 283
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_172
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 281
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_173
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 279
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_174
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 280
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_175
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 277
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_176
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 280
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_177
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 281
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_178
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 280
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_179
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 279
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_180
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 277
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_181
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 275
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_182
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 277
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_183
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 272
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_184
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 281
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_185
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 281
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_186
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 281
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_187
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 280
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_188
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 280
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_189
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 283
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_190
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 283
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_191
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 283
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_192
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 149
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_193
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 149
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_194
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 149
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_195
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 149
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_196
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 159
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_197
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 160
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_198
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 149
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_199
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 155
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_200
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 157
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_201
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 158
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_202
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 149
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_203
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 155
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_204
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 149
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_205
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 149
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_206
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 149
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_207
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 141
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_208
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 149
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_209
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 149
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_210
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 149
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_211
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 149
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_212
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 151
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_213
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 149
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_214
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 143
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_215
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 145
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_216
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 149
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_217
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 149
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_218
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 149
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_219
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 149
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_220
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 151
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_221
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 151
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_222
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 151
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_223
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 151
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_224
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 21
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_226
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 21
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_227
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_228
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 31
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_229
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 29
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_230
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 25
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_231
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 29
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_232
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 31
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_233
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 31
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_234
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 23
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_235
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 24
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_236
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 21
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_237
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 19
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_238
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 21
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_239
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 17
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_240
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 21
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_241
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 21
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_242
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 21
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_243
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 21
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_244
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 23
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_245
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 25
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_246
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 19
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_247
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 16
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_248
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 19
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_249
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 21
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_250
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 21
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_251
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 21
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_252
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 21
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_253
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 22
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_254
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 21
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orc_heavy_1_255
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 21
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

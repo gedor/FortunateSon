@@ -1,0 +1,7 @@
+﻿Villager: [question=1]I'm sorry, sir, may I ask you for a favour?
+[choice]Ehhh… Okay.
+[choice]I don't have time for this.
+
+Villager: My wife and I are trying to settle here due to beautiful scenery, but have noticed something strange when we came here.
+Villager: The thing is… This entire region has been looted by a raider. He steals from everybody, you can barely buy anything in the town because even the merchants have all been looted. Maybe you can investigate his whereabouts?
+Villager: You can talk to the merchant in the town, I heard his name was Patches. He should know where the thief is hiding.

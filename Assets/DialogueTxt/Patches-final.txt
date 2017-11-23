@@ -1,0 +1,10 @@
+Gorion: Are you Patches the merchant?
+???????: What's it to you?
+Gorion: I ask because I heard Patches has the cure for invisibility.
+Patches: Heh, yes, they call me Patches, but if you want me to help you, you'll have to help me, don't you think?
+Gorion: Alright, what can I do for you?
+Patches: There is a raider hiding up north from here in a cave by the name of Biggs. I used to do business with him, but now he's gone berserk. I want him dead. If you do that for me, I will give you the cure.
+Gorion: Okay, so Biggs it is.
+
+Patches: I heard the news. You did well. I thought you'd be dead meat. Here you go. The cure is yours.
+Gorion aquires the cure.

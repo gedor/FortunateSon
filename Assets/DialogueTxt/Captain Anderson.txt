@@ -1,0 +1,15 @@
+﻿Captain Anderson: [question=0]Good day, young one, you must be little Gorion. My name is Captain Anderson. I served under your father in Her Majesty's Army.
+[choice]I remember, sir. I heard you died in the Great War?
+[choice]I don't know you. Can you please get out of my house.
+
+Captain Anderson: No, I didn't.
+Captain Anderson: I am afraid I have bad news about your father. He seems to be invisible.
+Gorion: What?
+Captain Anderson: Yes, you can go talk to him now, he is in bed, but you won't see him. You'll only hear him… For he is…
+Gorion: Invisible, sure.
+
+Captain Anderson: Heh, that's funny. Anyway, there is something I have to tell you.
+Captain Anderson: I am afraid your father is sick. Actually, he seems to be invisible.
+Gorion: What?
+Captain Anderson: Yes, you can go talk to him now, he is in bed, but you won't see him. You'll only hear him… For he is...
+Gorion: Invisible, sure.

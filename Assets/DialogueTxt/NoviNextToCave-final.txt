@@ -1,0 +1,7 @@
+Cave Guard: [question=2]Hey, where do you think you're going? The cave is too dangerous.
+[choice]Patches sent me here. We made a deal: I kill Biggs, he gives me the cure for invisibility. Everything is as it is supposed to be.
+[choice]Forget it, I'm going in.
+
+Cave Guard: Patches is a fraud. If you want the cure for invisibility, talk to my friend Fenrio on the way to the city. His late wife was an alchemist, there was maybe some of that cure left untouched.
+
+Cave Guard: Ok, it's your funeral.
