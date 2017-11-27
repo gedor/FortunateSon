@@ -5,3 +5,5 @@ Cave Guard: [question=2]Hey, where do you think you're going? The cave is too da
 Cave Guard: Patches is a fraud. If you want the cure for invisibility, talk to my friend Fenrio on the way to the city. His late wife was an alchemist, there was maybe some of that cure left untouched.
 
 Cave Guard: Ok, it's your funeral.
+
+Cave Guard: Sorry, but the cave is too dangerous, you can't get in.

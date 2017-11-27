@@ -20,6 +20,7 @@ public class BossMover : MonoBehaviour {
 	private float _moveTimer = 0.0f;
 
 	Vector2 movementVectorEnemy;
+	Vector2 towardsPlayer;
 
 	public Transform target;
 	public float attackRange;
@@ -57,6 +58,10 @@ public class BossMover : MonoBehaviour {
 
 
 		if (distanceToPlayer < attackRange) {
+				towardsPlayer = (target.transform.position - transform.position).normalized;
+
+				animas.SetFloat ("VelocityX", towardsPlayer.x);
+				animas.SetFloat ("VelocityY", towardsPlayer.y);
 			attackTimeCounter = AttackTime;
 			_shouldMove = false;
 			animas.SetBool ("IsWalkingBoss", false);

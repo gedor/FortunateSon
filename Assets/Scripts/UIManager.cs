@@ -8,7 +8,7 @@ public class UIManager : MonoBehaviour {
 	public Slider HealthBar;
 	public Text levelText;
 	public Text expText;
-
+	//public Text nextLvlText;
 	public PlayerHealthManager playerHealth;
 	private PlayerExperience thePE;
 
@@ -32,7 +32,8 @@ public class UIManager : MonoBehaviour {
 	void Update () {
 		HealthBar.maxValue = playerHealth.playerMaxHealth;
 		HealthBar.value = playerHealth.playerCurrentHealth;
-		levelText.text = "Lvl: " + thePE.currentLevel;
+		levelText.text = "Lvl: " + thePE.realCurrentLevel;
 		expText.text = "Exp: " + thePE.currentExp;
+		//nextLvlText.text = "Next Lvl: " + thePE.toLevelUp;
 	}
 }

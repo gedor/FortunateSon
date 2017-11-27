@@ -21,6 +21,8 @@ public class Skeleton1MoverDonekleRadi : MonoBehaviour {
 
 	Vector2 movementVectorEnemy;
 
+	Vector2 towardsPlayer;
+
 	public Transform target;
 	public float attackRange;
 	private float lastAttackTime;
@@ -57,6 +59,10 @@ public class Skeleton1MoverDonekleRadi : MonoBehaviour {
 
 
 		if (distanceToPlayer < attackRange) {
+			towardsPlayer = (target.transform.position - transform.position).normalized;
+
+			anima.SetFloat ("VelocityX", towardsPlayer.x);
+			anima.SetFloat ("VelocityY", towardsPlayer.y);
 			attackTimeCounter = AttackTime;
 			_shouldMove = false;
 			anima.SetBool ("IsWalking", false);

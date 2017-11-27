@@ -8,18 +8,21 @@ public class PlayerExperience : MonoBehaviour {
 	public int currentLevel;
 	public int currentExp;
 	public int[] toLevelUp;
+	public int realCurrentLevel;
 	// Use this for initialization
 	void Start () {
-		
+
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if (currentExp >= toLevelUp [currentLevel]) {
-		
-			currentLevel++;
-			LevelUpStats ();
+				currentLevel++;
+				LevelUpStats ();
+			
 		}
+		realCurrentLevel = currentLevel + 1;
 	}
 	public void AddExperience(int ExperienceToAdd){
 	

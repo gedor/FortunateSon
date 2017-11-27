@@ -37,6 +37,10 @@ public class PlayerHealthManager : MonoBehaviour {
 		playerAgility = GameInfo.Agility;
 		playerCharisma = GameInfo.Charisma;
 		playerPerception = GameInfo.Perception;
+		if (playerCurrentHealth > playerMaxHealth) {
+		
+			playerCurrentHealth = playerMaxHealth;
+		}
 	}
 
 
