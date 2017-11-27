@@ -6,10 +6,12 @@ public class ChestDownLeft : MonoBehaviour {
 
 	public bool alreadyChest;
 	public Canvas ChestUI;
+	public Canvas PressFChest;
 	// Use this for initialization
 	void Start () {
 		ChestUI.enabled = false;
 		alreadyChest = false;
+		PressFChest.enabled = false;
 	}
 	
 	// Update is called once per frame
@@ -29,6 +31,26 @@ public class ChestDownLeft : MonoBehaviour {
 
 			}
 		}
+	}
+	void OnTriggerEnter2D(Collider2D other){
+
+		if (PressFChest.enabled == false) {
+			if (alreadyChest != true) {
+				PressFChest.enabled = true;
+
+			} else if (alreadyChest == true) {
+				PressFChest.enabled = false;
+			
+			
+			}
+		}
+	}
+	void OnTriggerExit2D(Collider2D other){
+		if (PressFChest.enabled == true) {
+			PressFChest.enabled = false;
+
+		}
+
 	}
 	public IEnumerator ChestSnowyDownLeft(){
 		ChestUI.enabled = true;

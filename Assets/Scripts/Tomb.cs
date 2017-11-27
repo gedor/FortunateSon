@@ -8,10 +8,12 @@ public class Tomb : MonoBehaviour {
 
 	public bool alreadyHeal;
 	public Canvas tombCan;
+	public Canvas tombfailCanvas;
 	// Use this for initialization
 	void Start () {
 		tombCan.enabled = false;
 		alreadyHeal = false;
+		tombfailCanvas.enabled = false;
 	}
 	
 	// Update is called once per frame
@@ -26,6 +28,10 @@ public class Tomb : MonoBehaviour {
 				if (GameInfo.Perception >= 13) {
 					alreadyHeal = true;
 					StartCoroutine ("TombCanv");
+				} else if (GameInfo.Perception < 13) {
+					StartCoroutine ("TombFail");
+				
+				
 				}
 			}
 		}
@@ -35,5 +41,10 @@ public class Tomb : MonoBehaviour {
 		GameObject.FindWithTag ("Player").GetComponent<PlayerHealthManager> ().playerCurrentHealth += 50;
 		yield return new WaitForSeconds (2.0f);
 		tombCan.enabled = false;
+	}
+	public IEnumerator TombFail(){
+		tombfailCanvas.enabled = true;
+		yield return new WaitForSeconds (2.0f);
+		tombfailCanvas.enabled = false;
 	}
 }

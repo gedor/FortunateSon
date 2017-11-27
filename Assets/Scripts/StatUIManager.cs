@@ -20,6 +20,7 @@ public class StatUIManager : MonoBehaviour {
 	void Update () {
 		Strength.text = "Strength: " + GameInfo.Strength;
 		Agility.text = "Agility: " + GameInfo.Agility;
+		Perception.text = "Perception: " + GameInfo.Perception;
 		Charisma.text = "Charisma: " + GameInfo.Charisma;
 		if(Input.GetKeyUp(KeyCode.I))
 		{
