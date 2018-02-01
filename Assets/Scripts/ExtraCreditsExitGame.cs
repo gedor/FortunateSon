@@ -1,11 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class VictoryCanvasQuit : MonoBehaviour {
+public class ExtraCreditsExitGame : MonoBehaviour {
 
-	public Canvas Vic;
 	// Use this for initialization
 	void Start () {
 		
@@ -16,10 +14,6 @@ public class VictoryCanvasQuit : MonoBehaviour {
 		
 	}
 	public void ExitGame(){
-
 		Application.Quit ();
-	}
-	public void LoadExtraCredits(){
-		SceneManager.LoadScene ("Credits");
 	}
 }
