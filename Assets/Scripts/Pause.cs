@@ -9,6 +9,10 @@ public class Pause : MonoBehaviour {
 	public Button resumeButton;
 	public Canvas pauseCanvas;
 
+	public Canvas victoryCanvas;
+	public Canvas trueVictoryCanvas;
+	public Canvas deathCanvas;
+
 	// Use this for initialization
 	void Start () {
 		pauseCanvas.enabled = false;
@@ -17,22 +21,23 @@ public class Pause : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyUp(KeyCode.Escape))
-			{
+		if (victoryCanvas.enabled == false && trueVictoryCanvas.enabled == false && deathCanvas.enabled == false) 
+		{
+			if (Input.GetKeyUp (KeyCode.Escape)) {
 
-			if (pauseCanvas.enabled == false) {
+				if (pauseCanvas.enabled == false) {
 			
-				pauseCanvas.enabled = true;
-				Time.timeScale = 0.0f;
-			}
-			else {
+					pauseCanvas.enabled = true;
+					Time.timeScale = 0.0f;
+				} else {
 			
-				pauseCanvas.enabled = false;
-				Time.timeScale = 1.0f;
+					pauseCanvas.enabled = false;
+					Time.timeScale = 1.0f;
+				}
+
 			}
 
 		}
-
 	}
 			public void ResumeGame(){
 	

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.Events;
 public class CreatePlayer : MonoBehaviour {
 
 	private BasePlayerClass newPlayer;
@@ -25,6 +25,7 @@ public class CreatePlayer : MonoBehaviour {
 
 
 	void Start(){
+		
 		newPlayer = new BasePlayerClass();
 		UpdateUI ();
 	}
@@ -200,5 +201,6 @@ public class CreatePlayer : MonoBehaviour {
 
 
 	}
+
 
 }
