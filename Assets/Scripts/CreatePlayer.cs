@@ -17,15 +17,15 @@ public class CreatePlayer : MonoBehaviour {
 	public Text hitpointsText;
 
 
-	private int PointsToSpend = 0;
+	public int PointsToSpend = 0;
 	public Text pointsText;
 
-
+	public Button startButton;
 
 
 
 	void Start(){
-		
+		startButton.interactable = false;
 		newPlayer = new BasePlayerClass();
 		UpdateUI ();
 	}
@@ -202,5 +202,9 @@ public class CreatePlayer : MonoBehaviour {
 
 	}
 
-
+	void Update(){
+		if (newPlayer.PlayerClass != null) {
+			startButton.interactable = true;
+		}
+	}
 }
