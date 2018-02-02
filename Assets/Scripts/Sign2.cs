@@ -36,4 +36,11 @@ public class Sign2 : MonoBehaviour {
 
 		}
 	}
+	void OnTriggerExit2D(Collider2D other){
+
+		if (sign2.enabled == true) {
+
+			sign2.enabled = false;
+		}
+	}
 }

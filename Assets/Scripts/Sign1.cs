@@ -6,34 +6,34 @@ public class Sign1 : MonoBehaviour {
 
 
 	public Canvas signprvo;
+
 	// Use this for initialization
 	void Start () {
 		signprvo.enabled = false;
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
 
 	void OnTriggerStay2D(Collider2D other){
 
-
-
-		if(Input.GetKeyUp(KeyCode.F))
-		{
-
+		if(Input.GetKeyUp(KeyCode.F)){
 			if (signprvo.enabled == false) {
-
+				
 				signprvo.enabled = true;
 
-			}
-			else {
-
+			} else {
 				signprvo.enabled = false;
-	
+			
 			}
+	}
 
+
+	}
+	void OnTriggerExit2D(Collider2D other){
+	
+		if (signprvo.enabled == true) {
+		
+			signprvo.enabled = false;
 		}
 	}
+
 }
