@@ -7,12 +7,13 @@ public class Pause : MonoBehaviour {
 
 	public Button exitGameButton;
 	public Button resumeButton;
+	public Button controlsButton;
 	public Canvas pauseCanvas;
 
 	public Canvas victoryCanvas;
 	public Canvas trueVictoryCanvas;
 	public Canvas deathCanvas;
-
+	public Canvas controlsCanvas;
 	// Use this for initialization
 	void Start () {
 		pauseCanvas.enabled = false;
@@ -48,4 +49,11 @@ public class Pause : MonoBehaviour {
 	
 		Application.Quit ();
 			}
+	public void ControlsButton(){
+
+		if (controlsCanvas.enabled == false) {
+
+			controlsCanvas.enabled = true;
+		}
+	}
 }
