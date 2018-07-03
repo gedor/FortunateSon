@@ -47,7 +47,7 @@ public class Patches : MonoBehaviour {
 
 
 		if (lastPressed != Time.deltaTime) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1")|| Input.GetKeyUp (KeyCode.F)) {
 
 				if (rpgPatch.isPlaying == false) {
 					if (GameObject.Find ("Father").GetComponent<FatherGallhager> ().gotCure == false) {

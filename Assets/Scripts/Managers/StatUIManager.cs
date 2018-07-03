@@ -22,7 +22,7 @@ public class StatUIManager : MonoBehaviour {
 		Agility.text = "Agility: " + GameInfo.Agility;
 		Perception.text = "Perception: " + GameInfo.Perception;
 		Charisma.text = "Charisma: " + GameInfo.Charisma;
-		if(Input.GetKeyUp(KeyCode.I))
+		if(Input.GetButtonDown("Cancel") || Input.GetKeyUp(KeyCode.I))
 		{
 
 			if (StatUI.enabled == false) {

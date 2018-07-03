@@ -31,7 +31,7 @@ public class Intro : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyUp(KeyCode.F))
+		if(Input.GetButtonDown("Fire1") || Input.GetKeyUp(KeyCode.F))
 		{
 
 			if (paladin.enabled == true || warrior.enabled == true || rogue.enabled == true) {

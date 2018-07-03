@@ -63,7 +63,7 @@ public class CaveGuard : MonoBehaviour {
 
 
 		if (lastPressed != Time.deltaTime) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1") || Input.GetKeyUp (KeyCode.F)) {
 				
 				if (GameObject.Find ("Patches").GetComponent<Patches> ().talkedToPatches == true) {
 					if (rpgCaveG.isPlaying == false) {

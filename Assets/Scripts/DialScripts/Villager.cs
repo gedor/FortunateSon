@@ -65,7 +65,7 @@ public class Villager : MonoBehaviour {
 
 		if (lastPressed != Time.deltaTime) {
 			if (rpgVill.isPlaying == false) {
-				if (Input.GetKeyUp (KeyCode.F)) {
+				if (Input.GetButtonDown("Fire1") ||  Input.GetKeyUp (KeyCode.F)) {
 					GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
 					lastPressed = Time.deltaTime;
 

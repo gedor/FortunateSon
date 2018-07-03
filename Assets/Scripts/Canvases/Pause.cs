@@ -24,7 +24,7 @@ public class Pause : MonoBehaviour {
 	void Update () {
 		if (victoryCanvas.enabled == false && trueVictoryCanvas.enabled == false && deathCanvas.enabled == false) 
 		{
-			if (Input.GetKeyUp (KeyCode.Escape)) {
+			if (Input.GetButtonDown("Menu") || Input.GetKeyUp (KeyCode.Escape)) {
 
 				if (pauseCanvas.enabled == false) {
 			

@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour {
 
 
 			Vector2 movementVector = new Vector2 (Input.GetAxisRaw ("Horizontal"), Input.GetAxisRaw ("Vertical"));
-
+			
 			if (movementVector != Vector2.zero) {
 				anim.SetBool ("IsWalking", true);
 				anim.SetFloat ("InputX", movementVector.x);
@@ -57,7 +57,7 @@ public class PlayerMovement : MonoBehaviour {
 
 
 		if(attacking == false){
-			if (Input.GetKeyUp (KeyCode.E)) {
+			if (Input.GetButtonDown ("Fire3") || Input.GetKeyDown(KeyCode.E)) {
 				attacking = true;
 			attackTimeCounter = AttackTime;
 			rbody.velocity = Vector2.zero;

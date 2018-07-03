@@ -31,10 +31,10 @@ public class CaptainAnderson : MonoBehaviour {
 			if (choiceID == 0) {
 				if (rpgCaptainAnderson.isPlaying == false) {
 					rpgCaptainAnderson.NewTalk ("5", "9");
-					//StartCoroutine ("And2");
+					
 					talkedToAnderson = true;
 					lastPressed = 0.0f;
-					//while (rpgCaptainAnderson.isPlaying == true) {}
+					
 					GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
 
 				}
@@ -43,7 +43,7 @@ public class CaptainAnderson : MonoBehaviour {
 			} else if (choiceID == 1) {
 				if (rpgCaptainAnderson.isPlaying == false) {
 					talkedToAnderson = true;
-					//StartCoroutine ("And3");
+					
 					rpgCaptainAnderson.NewTalk ("11", "15");
 
 					lastPressed = 0.0f;
@@ -55,12 +55,6 @@ public class CaptainAnderson : MonoBehaviour {
 		}
 
 	}
-
-	
-
-
-
-
 	void Update(){
 
 
@@ -85,37 +79,18 @@ public class CaptainAnderson : MonoBehaviour {
 
 
 		if (lastPressed != Time.deltaTime) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1") || Input.GetKeyUp (KeyCode.F)) {
 				if (rpgCaptainAnderson.isPlaying == false) {
 			
 					lastPressed = Time.deltaTime;
 					GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
 					rpgCaptainAnderson.NewTalk ("1", "3");
-					//StartCoroutine ("And1");
+					
 					talkedToAnderson = true;
 
 				}
 			}
 		}
 	}
-	/*public IEnumerator And1(){
-		GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
-		rpgCaptainAnderson.NewTalk ("1", "3");
-		yield return null;
-	}
-	public IEnumerator And2(){
-		GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
-		rpgCaptainAnderson.NewTalk ("5", "9");
-		yield return new WaitForSeconds (2.5f);
-		GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = true;
-		lastPressed = 0.0f;
-	}
-	public IEnumerator And3(){
-		GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = false;
-		rpgCaptainAnderson.NewTalk ("11", "15");
-		yield return new WaitForSeconds (2.5f);
-		GameObject.FindWithTag ("Player").GetComponent<PlayerMovement> ().CanMove = true;
-		lastPressed = 0.0f;
-	}
-*/
+	
 }

@@ -45,7 +45,7 @@ public class KneelKnight : MonoBehaviour {
 
 
 		if (lastPressed != Time.deltaTime) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1") || Input.GetKeyUp (KeyCode.F)) {
 
 				if (rpgKnee.isPlaying == false) {
 					if (GameObject.Find ("Guard").GetComponent<CaveGuard> ().talkedToGuard == true) {

@@ -20,7 +20,7 @@ public class Sign2 : MonoBehaviour {
 
 
 
-		if(Input.GetKeyUp(KeyCode.F))
+		if(Input.GetButtonDown("Fire1") || Input.GetKeyUp(KeyCode.F))
 		{
 
 			if (sign2.enabled == false) {

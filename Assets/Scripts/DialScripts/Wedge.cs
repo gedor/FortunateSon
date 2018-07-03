@@ -46,7 +46,7 @@ public class Wedge : MonoBehaviour {
 
 
 		if (lastPressed != Time.deltaTime) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1")||Input.GetKeyUp (KeyCode.F)) {
 				if (GameInfo.Charisma >= 14) {
 					if (GameObject.Find ("Father").GetComponent<FatherGallhager> ().gotCure == false) {
 						if (rpgWedg.isPlaying == false) {

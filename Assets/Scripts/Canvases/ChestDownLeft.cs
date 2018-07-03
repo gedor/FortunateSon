@@ -24,7 +24,7 @@ public class ChestDownLeft : MonoBehaviour {
 			if (ChestUI.enabled == false) {
 
 
-				if (Input.GetKeyUp (KeyCode.F)) {
+				if (Input.GetButtonDown("Fire1") || Input.GetKeyUp (KeyCode.F)) {
 					alreadyChest = true;
 					StartCoroutine ("ChestSnowyDownLeft");
 				} 

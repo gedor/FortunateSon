@@ -23,7 +23,7 @@ public class Tomb : MonoBehaviour {
 	void OnTriggerStay2D(Collider2D other){
 
 		if (alreadyHeal != true) {
-			if (Input.GetKeyUp (KeyCode.F)) {
+			if (Input.GetButtonDown("Fire1") || Input.GetKeyUp (KeyCode.F)) {
 		
 				if (GameInfo.Perception >= 13) {
 					alreadyHeal = true;

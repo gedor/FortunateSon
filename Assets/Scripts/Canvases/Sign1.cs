@@ -15,7 +15,7 @@ public class Sign1 : MonoBehaviour {
 
 	void OnTriggerStay2D(Collider2D other){
 
-		if(Input.GetKeyUp(KeyCode.F)){
+		if(Input.GetButtonDown("Fire1") || Input.GetKeyUp(KeyCode.F)){
 			if (signprvo.enabled == false) {
 				
 				signprvo.enabled = true;
