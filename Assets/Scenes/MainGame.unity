@@ -38363,7 +38363,6 @@ RectTransform:
   - {fileID: 131330851}
   - {fileID: 375343140}
   - {fileID: 1018249240}
-  - {fileID: 1845033310}
   m_Father: {fileID: 1581709378}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -51116,7 +51115,7 @@ MonoBehaviour:
   m_CancelButton: Cancel
   m_InputActionsPerSecond: 10
   m_RepeatDelay: 0.5
-  m_ForceModuleActive: 0
+  m_ForceModuleActive: 1
 --- !u!114 &1845033309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51138,11 +51137,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1845033307}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -404.22998, y: -208.87, z: 0}
-  m_LocalScale: {x: 0.84745765, y: 0.84745765, z: 0.84745765}
+  m_LocalPosition: {x: 0, y: 0.125, z: 0}
+  m_LocalScale: {x: 1.3792374, y: 1.3792374, z: 1.3792374}
   m_Children: []
-  m_Father: {fileID: 1335921605}
-  m_RootOrder: 4
+  m_Father: {fileID: 0}
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1846132495
 GameObject:

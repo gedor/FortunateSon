@@ -13,7 +13,8 @@ public class StatUIManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		StatUI.enabled = false;
+
+		StatUI.gameObject.SetActive(false);
 	}
 	
 	// Update is called once per frame
