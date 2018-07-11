@@ -10,7 +10,7 @@ public class DeathUI : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		pla = GameObject.FindWithTag("Player").GetComponent<PlayerHealthManager> ();
-		deathCanvas.enabled = false;
+		deathCanvas.gameObject.SetActive(false);
 
 	}
 	
@@ -30,6 +30,6 @@ public class DeathUI : MonoBehaviour {
 	public IEnumerator plaDead(){
 	
 		yield return new WaitForSeconds (1.0f);
-		deathCanvas.enabled = true;
+		deathCanvas.gameObject.SetActive(true);
 	}
 }

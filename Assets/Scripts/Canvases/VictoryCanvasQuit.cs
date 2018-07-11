@@ -8,8 +8,8 @@ public class VictoryCanvasQuit : MonoBehaviour {
 	public Canvas Vic;
 	// Use this for initialization
 	void Start () {
-		
-	}
+		Vic.gameObject.SetActive(false);
+		}
 	
 	// Update is called once per frame
 	void Update () {

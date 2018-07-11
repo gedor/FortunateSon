@@ -25,15 +25,13 @@ public class StatUIManager : MonoBehaviour {
 		if(Input.GetButtonDown("Cancel") || Input.GetKeyUp(KeyCode.I))
 		{
 
-			if (StatUI.enabled == false) {
+			if (StatUI.isActiveAndEnabled == false) {
 
-				StatUI.enabled = true;
-
-
+				StatUI.gameObject.SetActive(true);
 			}
 			else {
 
-				StatUI.enabled = false;
+				StatUI.gameObject.SetActive(false);
 
 			}
 

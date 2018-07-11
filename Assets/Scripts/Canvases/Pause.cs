@@ -16,23 +16,23 @@ public class Pause : MonoBehaviour {
 	public Canvas controlsCanvas;
 	// Use this for initialization
 	void Start () {
-		pauseCanvas.enabled = false;
+		pauseCanvas.gameObject.SetActive(false);
 
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (victoryCanvas.enabled == false && trueVictoryCanvas.enabled == false && deathCanvas.enabled == false) 
+		if (victoryCanvas.isActiveAndEnabled == false && trueVictoryCanvas.isActiveAndEnabled == false && deathCanvas.isActiveAndEnabled == false) 
 		{
 			if (Input.GetButtonDown("Menu") || Input.GetKeyUp (KeyCode.Escape)) {
 
-				if (pauseCanvas.enabled == false) {
+				if (pauseCanvas.isActiveAndEnabled == false) {
 			
-					pauseCanvas.enabled = true;
+					pauseCanvas.gameObject.SetActive(true);
 					Time.timeScale = 0.0f;
 				} else {
 			
-					pauseCanvas.enabled = false;
+					pauseCanvas.gameObject.SetActive(false);
 					Time.timeScale = 1.0f;
 				}
 
@@ -42,7 +42,7 @@ public class Pause : MonoBehaviour {
 	}
 			public void ResumeGame(){
 	
-		pauseCanvas.enabled = false;
+		pauseCanvas.gameObject.SetActive(false);
 		Time.timeScale = 1.0f;
 			}
 			public void ExitGame(){
@@ -51,9 +51,9 @@ public class Pause : MonoBehaviour {
 			}
 	public void ControlsButton(){
 
-		if (controlsCanvas.enabled == false) {
+		if (controlsCanvas.isActiveAndEnabled == false) {
 
-			controlsCanvas.enabled = true;
+			controlsCanvas.gameObject.SetActive(true);
 		}
 	}
 }

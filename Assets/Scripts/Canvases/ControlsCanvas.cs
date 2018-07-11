@@ -11,7 +11,7 @@ public class ControlsCanvas : MonoBehaviour {
 
 	// Use this for initialization
 	void Awake () {
-		controlsCanvas.enabled = false;
+		controlsCanvas.gameObject.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -20,9 +20,9 @@ public class ControlsCanvas : MonoBehaviour {
 	}
 	public void BackToMenu(){
 	
-		if (controlsCanvas.enabled == true) {
+		if (controlsCanvas.isActiveAndEnabled == true) {
 		
-			controlsCanvas.enabled = false;
+			controlsCanvas.gameObject.SetActive(false);
 		}
 	}
 }

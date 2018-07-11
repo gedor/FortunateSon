@@ -9,19 +9,19 @@ public class Sign1 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		signprvo.enabled = false;
+		signprvo.gameObject.SetActive(false);
 	}
 
 
 	void OnTriggerStay2D(Collider2D other){
 
 		if(Input.GetButtonDown("Fire1") || Input.GetKeyUp(KeyCode.F)){
-			if (signprvo.enabled == false) {
+			if (signprvo.isActiveAndEnabled == false) {
 				
-				signprvo.enabled = true;
+				signprvo.gameObject.SetActive(true);
 
 			} else {
-				signprvo.enabled = false;
+				signprvo.gameObject.SetActive(false);
 			
 			}
 	}
@@ -30,9 +30,9 @@ public class Sign1 : MonoBehaviour {
 	}
 	void OnTriggerExit2D(Collider2D other){
 	
-		if (signprvo.enabled == true) {
+		if (signprvo.isActiveAndEnabled == true) {
 		
-			signprvo.enabled = false;
+			signprvo.gameObject.SetActive(false);
 		}
 	}
 
