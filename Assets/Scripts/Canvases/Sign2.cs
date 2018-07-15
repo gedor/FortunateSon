@@ -8,7 +8,7 @@ public class Sign2 : MonoBehaviour {
 	public Canvas sign2;
 	// Use this for initialization
 	void Start () {
-		sign2.gameObject.SetActive(false);
+		sign2.enabled = false;
 	}
 	
 	// Update is called once per frame
@@ -25,12 +25,12 @@ public class Sign2 : MonoBehaviour {
 
 			if (sign2.isActiveAndEnabled == false) {
 
-				sign2.gameObject.SetActive(true);
+				sign2.enabled = true;
 
 			}
 			else {
 
-				sign2.gameObject.SetActive(false);
+				sign2.enabled = false;
 	
 			}
 
@@ -40,7 +40,7 @@ public class Sign2 : MonoBehaviour {
 
 		if (sign2.isActiveAndEnabled == true) {
 
-			sign2.gameObject.SetActive(false);
+			sign2.enabled = false;
 		}
 	}
 }

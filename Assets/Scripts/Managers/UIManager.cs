@@ -16,6 +16,7 @@ public class UIManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		HealthBar.interactable = false;
 		thePE = gameObject.GetComponent<PlayerExperience> ();
 		playerHealth = GameObject.FindWithTag ("Player").GetComponent<PlayerHealthManager>();
 		if (!UIExists) {

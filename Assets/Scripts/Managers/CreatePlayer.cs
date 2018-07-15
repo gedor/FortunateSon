@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events;
+using UnityEngine.EventSystems;
 public class CreatePlayer : MonoBehaviour {
 
 	private BasePlayerClass newPlayer;
@@ -22,7 +23,9 @@ public class CreatePlayer : MonoBehaviour {
 
 	public Button startButton;
 
-
+	public EventSystem eve;
+	public GameObject selectedObject;
+	private bool buttonSelected;
 
 	void Start(){
 		startButton.interactable = false;
@@ -206,5 +209,15 @@ public class CreatePlayer : MonoBehaviour {
 		if (newPlayer.PlayerClass != null) {
 			startButton.interactable = true;
 		}
+		if(Input.GetAxisRaw("Vertical") !=0 && buttonSelected == false){
+
+			eve.SetSelectedGameObject(selectedObject);
+			buttonSelected = true;
+		}
+		
+	}
+
+	private void OnDisable() {
+	buttonSelected = false;	
 	}
 }

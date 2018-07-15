@@ -9,7 +9,7 @@ public class Sign1 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		signprvo.gameObject.SetActive(false);
+		signprvo.enabled = false;
 	}
 
 
@@ -18,10 +18,10 @@ public class Sign1 : MonoBehaviour {
 		if(Input.GetButtonDown("Fire1") || Input.GetKeyUp(KeyCode.F)){
 			if (signprvo.isActiveAndEnabled == false) {
 				
-				signprvo.gameObject.SetActive(true);
+				signprvo.enabled = true;
 
 			} else {
-				signprvo.gameObject.SetActive(false);
+				signprvo.enabled = false;
 			
 			}
 	}
@@ -32,7 +32,7 @@ public class Sign1 : MonoBehaviour {
 	
 		if (signprvo.isActiveAndEnabled == true) {
 		
-			signprvo.gameObject.SetActive(false);
+			signprvo.enabled = false;
 		}
 	}
 
