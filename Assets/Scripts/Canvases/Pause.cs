@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.EventSystems;
+
 public class Pause : MonoBehaviour {
 
 	public Button exitGameButton;
@@ -17,9 +17,8 @@ public class Pause : MonoBehaviour {
 	public Canvas deathCanvas;
 	public Canvas controlsCanvas;
 
-	public EventSystem eve;
-	public GameObject selectedObject;
-	private bool buttonSelected;
+	
+	
 	
 	// Use this for initialization
 	void Start () {
@@ -46,6 +45,7 @@ public class Pause : MonoBehaviour {
 					exitGameButton.interactable = true;
 					resumeButton.interactable = true;
 					controlsButton.interactable = true;
+					resumeButton.Select();
 					
 					Time.timeScale = 0.0f;
 				} else {
@@ -61,11 +61,6 @@ public class Pause : MonoBehaviour {
 			}
 
 		}
-			if(pauseCanvas.enabled == true && Input.GetAxisRaw("Vertical") !=0 && buttonSelected == false){
-
-			eve.SetSelectedGameObject(selectedObject);
-			buttonSelected = true;
-			}
 	}
 			public void ResumeGame(){
 	
@@ -86,14 +81,12 @@ public class Pause : MonoBehaviour {
 
 			controlsCanvas.enabled = true;
 			controlBack.interactable = true;
+			controlBack.Select();
 			Time.timeScale = 0.0f;
 		}
 	}
 	
-	private void OnDisable() {
-	buttonSelected = false;	
 	
-	}
 
 	
 }

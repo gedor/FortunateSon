@@ -1510,8 +1510,9 @@ MonoBehaviour:
   controlsCanvas: {fileID: 42515056}
   back: {fileID: 1439134775}
   eve: {fileID: 1845033309}
-  selectedObject: {fileID: 1439134774}
+  selectedObject: {fileID: 1439134775}
   pauseCan: {fileID: 1581709377}
+  selPaus: {fileID: 1242974270}
 --- !u!114 &42515054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44306,7 +44307,7 @@ MonoBehaviour:
   deathCanvas: {fileID: 1458389385}
   controlsCanvas: {fileID: 42515056}
   eve: {fileID: 1845033309}
-  selectedObject: {fileID: 1242974268}
+  selectedObject: {fileID: 1242974270}
 --- !u!1 &1582191279
 GameObject:
   m_ObjectHideFlags: 0

@@ -260,7 +260,6 @@ GameObject:
   - component: {fileID: 78622738}
   - component: {fileID: 78622737}
   - component: {fileID: 78622736}
-  - component: {fileID: 78622739}
   m_Layer: 5
   m_Name: ControlsButton
   m_TagString: Untagged
@@ -326,7 +325,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 78622739}
+      - m_Target: {fileID: 697240722}
         m_MethodName: Controls
         m_Mode: 1
         m_Arguments:
@@ -372,19 +371,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 78622734}
---- !u!114 &78622739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 78622734}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6baad10cb91f944a9589aa30824978d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eve: {fileID: 522123021}
-  selectedObject: {fileID: 525949545}
 --- !u!1 &204365356
 GameObject:
   m_ObjectHideFlags: 0
@@ -779,7 +765,6 @@ GameObject:
   - component: {fileID: 525949549}
   - component: {fileID: 525949548}
   - component: {fileID: 525949547}
-  - component: {fileID: 525949550}
   m_Layer: 5
   m_Name: NewGameButton
   m_TagString: Untagged
@@ -845,7 +830,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 525949550}
+      - m_Target: {fileID: 697240722}
         m_MethodName: StartNewGame
         m_Mode: 1
         m_Arguments:
@@ -891,19 +876,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 525949545}
---- !u!114 &525949550
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 525949545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6baad10cb91f944a9589aa30824978d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eve: {fileID: 522123021}
-  selectedObject: {fileID: 525949545}
 --- !u!1 &539319138
 GameObject:
   m_ObjectHideFlags: 0
@@ -952,7 +924,6 @@ GameObject:
   - component: {fileID: 640536897}
   - component: {fileID: 640536896}
   - component: {fileID: 640536895}
-  - component: {fileID: 640536898}
   m_Layer: 5
   m_Name: ExitGameButton
   m_TagString: Untagged
@@ -1018,7 +989,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 640536898}
+      - m_Target: {fileID: 697240722}
         m_MethodName: ExitGame
         m_Mode: 1
         m_Arguments:
@@ -1064,19 +1035,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 640536893}
---- !u!114 &640536898
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 640536893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6baad10cb91f944a9589aa30824978d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eve: {fileID: 522123021}
-  selectedObject: {fileID: 525949545}
 --- !u!1 &697240717
 GameObject:
   m_ObjectHideFlags: 0
@@ -1088,6 +1046,7 @@ GameObject:
   - component: {fileID: 697240720}
   - component: {fileID: 697240719}
   - component: {fileID: 697240718}
+  - component: {fileID: 697240722}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1172,6 +1131,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &697240722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 697240717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6baad10cb91f944a9589aa30824978d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedObject: {fileID: 525949547}
 --- !u!1 &823442782
 GameObject:
   m_ObjectHideFlags: 0

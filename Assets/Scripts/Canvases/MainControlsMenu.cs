@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class BackToMainMenu : MonoBehaviour {
+using UnityEngine.UI;
+public class MainControlsMenu : MonoBehaviour {
+
+
+
 
 	// Use this for initialization
 	void Start () {
@@ -16,5 +20,8 @@ public class BackToMainMenu : MonoBehaviour {
 	public void BackToMain(){
 	
 		SceneManager.LoadScene ("MainMenu");
+	}
+	private void OnEnable() {
+		
 	}
 }

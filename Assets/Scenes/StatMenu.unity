@@ -3374,8 +3374,7 @@ MonoBehaviour:
   PointsToSpend: 0
   pointsText: {fileID: 1004545599}
   startButton: {fileID: 997150551}
-  eve: {fileID: 332267261}
-  selectedObject: {fileID: 2141275334}
+  selectedObject: {fileID: 2141275336}
 --- !u!1 &1217493039
 GameObject:
   m_ObjectHideFlags: 0

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.EventSystems;
+
 public class DeathUI : MonoBehaviour {
 
 
@@ -11,8 +11,8 @@ public class DeathUI : MonoBehaviour {
 
 	public Button exitGam;
 
-	public EventSystem eve;
-	public GameObject selectedObject;
+	
+	
 	private bool buttonSelected;
 	// Use this for initialization
 	void Start () {
@@ -27,11 +27,7 @@ public class DeathUI : MonoBehaviour {
 			StartCoroutine ("plaDead");
 		
 		}
-		if (deathCanvas.enabled == true && Input.GetAxisRaw("Vertical") !=0 && buttonSelected == false){
-			eve.SetSelectedGameObject(selectedObject);
-			buttonSelected = true;
-
-			}
+		
 	}
 			public void ExitGame(){
 
@@ -43,9 +39,7 @@ public class DeathUI : MonoBehaviour {
 		yield return new WaitForSeconds (1.0f);
 		deathCanvas.enabled = true;
 		exitGam.interactable = true;
+		exitGam.Select();
 	}
-	private void OnDisable() {
-	buttonSelected = false;	
-	
-	}
+
 }
