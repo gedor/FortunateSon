@@ -5,10 +5,10 @@ using UnityEngine.UI;
 public class ExtraCreditsExitGame : MonoBehaviour {
 
 
-	public Button exitGame;
+	//public Button exitGame;
 	// Use this for initialization
 	void Start () {
-		exitGame.Select();
+		//exitGame.Select();
 	}
 	
 	// Update is called once per frame

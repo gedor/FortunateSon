@@ -24,14 +24,14 @@ public class CreatePlayer : MonoBehaviour {
 	public Button startButton;
 
 	
-	public Button selectedObject;
+	//public Button selectedObject;
 	
 
 	void Start(){
 		startButton.interactable = false;
 		newPlayer = new BasePlayerClass();
 		UpdateUI ();
-		selectedObject.Select();
+	//	selectedObject.Select();
 
 	}
 

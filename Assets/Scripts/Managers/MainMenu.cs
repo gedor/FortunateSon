@@ -7,13 +7,13 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour {
 
 	
-	public Button selectedObject;
+	//public Button selectedObject;
 
 
 
 	// Use this for initialization
 	void Start () {
-		
+	//	selectedObject.Select();
 	}
 	
 	// Update is called once per frame
@@ -34,7 +34,5 @@ public class MainMenu : MonoBehaviour {
 	
 	}
 	
-	private void OnEnable() {
-		selectedObject.Select();
-	}
+	
 }
